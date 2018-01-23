@@ -1,0 +1,16 @@
+.ptg-tag-container{
+    display: flex;
+    padding-top: 0.18rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.ptg-tag-container > div {
+    margin-left: 0.18rem;
+    margin-bottom: 0.18rem;
+}
+
+.ptg-tag-header {
+    padding-left: 0.3rem;
+    padding-top: 0.3rem;
+}

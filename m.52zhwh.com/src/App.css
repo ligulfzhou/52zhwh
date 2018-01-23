@@ -1,0 +1,17 @@
+.flex-container {
+    margin: 0 0.30rem;
+}
+.flex-container .inline {
+    width: 1.6rem!important;
+    margin: 0.18rem 0.18rem 0.18rem 0;
+}
+.flex-container .small {
+    height: 0.4rem!important;
+    line-height: 0.4rem!important;
+}
+.sub-title {
+    color: #888;
+    font-size: .28rem;
+    padding: 30px 0 18px 0;
+}
+
