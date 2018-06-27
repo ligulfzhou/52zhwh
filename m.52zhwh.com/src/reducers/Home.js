@@ -1,6 +1,5 @@
 import { REQUEST_HOME, RECEIVE_HOME} from '../actions/Home.js';
 
-
 export const home = (state={
 	isFetching: false,
 	didInvalidate: false,

@@ -9,7 +9,6 @@ import JokeList from './components/JokeList.js';
 import PoemList from './components/PoemList.js';
 import GoogleAdsense from './components/GoogleAdsense.js';
 
-
 import { Tabs, WhiteSpace, Flex } from 'antd-mobile';
 const TabPane = Tabs.TabPane;
 

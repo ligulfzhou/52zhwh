@@ -13,10 +13,12 @@ export default class GoogleAdsense extends Component {
                 <ins
                     className="adsbygoogle"
                     style={{ display: "block" }}
-                    data-ad-client="ca-pub-9174125730777485"
+                    data-ad-client=""
                     data-ad-slot={ this.props.slot }
                     data-ad-format={ this.props.format }
                 />
         )
     }
+
 }
+//ca-pub-9174125730777485
